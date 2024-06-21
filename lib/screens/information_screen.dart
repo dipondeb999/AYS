@@ -12,7 +12,6 @@ class _InformationScreenState extends State<InformationScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          centerTitle: true,
           title: const Text('তথ্য',
             style: TextStyle(
               fontSize: 25,

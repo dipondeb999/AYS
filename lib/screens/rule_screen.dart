@@ -12,7 +12,6 @@ class _RuleScreenState extends State<RuleScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,
         title: const Text('নিয়মাবলী',
           style: TextStyle(
             fontSize: 25,

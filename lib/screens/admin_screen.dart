@@ -12,7 +12,6 @@ class _AdminScreenState extends State<AdminScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,
         title: const Text('প্রধান উপদেষ্টা',
           style: TextStyle(
             fontSize: 25,

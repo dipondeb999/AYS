@@ -1,5 +1,4 @@
 
-
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
@@ -18,7 +17,6 @@ class _MemberScreenState extends State<MemberScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,
         title: const Text(
           'সদস্য',
           style: TextStyle(

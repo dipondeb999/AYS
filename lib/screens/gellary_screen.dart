@@ -13,7 +13,6 @@ class _GellaryScreenState extends State<GellaryScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,
         title: const Text('গ্যালারি',
           style: TextStyle(
             fontSize: 25,
